@@ -4,14 +4,14 @@ body{
 .title-font{
     font-family: 'Luxurious Roman', cursive;
     padding-left: 10px;
-    border-left: 5px solid blue;
+    border-left: 5px solid orange;
     
 }
 h1{
     font-size: 52px;
 }
 .orange{
-    color: royalblue;
+    color: orange;
 }
 section{
     display: flex;
@@ -27,14 +27,14 @@ section{
 }
 .explore-button{
     text-decoration: none;
-    background-image: linear-gradient(royalblue, blue);
+    background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
     font-size: 700;
 }
 span{
-    color: royalblue;
+    color: orange;
 }
 .mission-work{
     text-align: center;
@@ -62,7 +62,7 @@ span{
 }
 .documentation-button{
     text-decoration: none;
-    background-image: linear-gradient(royalblue, blue);
+    background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
@@ -96,4 +96,9 @@ span{
     background-repeat: no-repeat;
     background-position: right;
     background-size: 300px;
+}
+.fifth-sec{
+    background-color: black;
+    color: white;
+    text-align: center;
 }
