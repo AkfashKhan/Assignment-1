@@ -41,21 +41,21 @@ span{
 }
 .mission{
     background-color: aliceblue;
-    margin-bottom: 150px;
+    margin-bottom: 300px;
     margin-left: 50px;
     padding-left: 10px;
     border-radius: 20px;
 }
 .vission{
     background-color: lightskyblue;
-    margin-bottom: 150px;
+    margin-bottom: 300px;
     margin-left: 50px;
     padding-left: 10px;
     border-radius: 20px;
 }
 .goals{
     background-color: skyblue;
-    margin-bottom: 150px;
+    margin-bottom: 300px;
     margin-left: 50px;
     padding-left: 10px;
     border-radius: 20px;
@@ -81,4 +81,19 @@ span{
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    background-size: 100px;
+}
+.forth-sec{
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.forth-sec img{
+    width: 80%;
+    padding-bottom: 10%;
+}
+.bg-img-2{
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 300px;
 }
